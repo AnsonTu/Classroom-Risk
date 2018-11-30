@@ -1,0 +1,23 @@
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\bin\Debug\RGSS_Risk2.exe.config
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\bin\Debug\RGSS_Risk2.exe
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\bin\Debug\RGSS_Risk2.pdb
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.csprojResolveAssemblyReference.cache
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.BattleForm.resources
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.Properties.Resources.resources
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.csproj.GenerateResource.Cache
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.exe
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.pdb
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.PlayerCreationForm.resources
+E:\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.RGSS_RISK_Form.resources
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\bin\Debug\RGSS_Risk2.exe.config
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\bin\Debug\RGSS_Risk2.exe
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.csprojAssemblyReference.cache
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.BattleForm.resources
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.PlayerCreationForm.resources
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.Properties.Resources.resources
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.RGSS_RISK_Form.resources
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.csproj.GenerateResource.cache
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.csproj.CoreCompileInputs.cache
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.exe
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\obj\Debug\RGSS_Risk2.pdb
+D:\High School\Computer Science 12\SourceControl\G12Culminating\RGSS_Risk2\RGSS_Risk2\bin\Debug\RGSS_Risk2.pdb
